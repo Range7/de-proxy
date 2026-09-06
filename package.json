@@ -1,0 +1,9 @@
+{
+  "name": "de-proxy-vercel",
+  "version": "1.0.0",
+  "description": "DownloadEverything Proxy for Nuvio on Vercel",
+  "scripts": {
+    "start": "echo 'Use vercel dev'"
+  },
+  "dependencies": {}
+}
