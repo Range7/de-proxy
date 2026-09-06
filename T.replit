@@ -1,0 +1,4 @@
+run = "node server.js"
+
+[env]
+NODE_VERSION = "20"
